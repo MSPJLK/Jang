@@ -1,3 +1,3 @@
 #### [3주차] 알고리즘(시간, 공간 복잡도)
 
-(티스토리)[https://1117jhh.tistory.com/17]
+[티스토리](https://1117jhh.tistory.com/17)
